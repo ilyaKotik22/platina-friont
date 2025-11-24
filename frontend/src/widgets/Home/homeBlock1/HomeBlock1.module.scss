@@ -1,0 +1,15 @@
+.HomeBlock1{
+    position: relative;
+    section{
+        width: 60vw;
+        border-top-right-radius: 70px;
+        background-color: var(--body-color);
+        position: absolute;
+        bottom: 0;
+        padding: 35px 0 35px 6vw;
+
+        h1{
+            font-size: 3.42vw;
+        }
+    }
+}
